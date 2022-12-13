@@ -8,7 +8,7 @@ A major proportion of retail bank profit comes from interests in the form of hom
     * Preferably maintaining a high `F1-Score` (overall accuracy) as false positives would result in a loss of interest profit for the bank. 
 --------------------------------
 ## **Results**
-With the challenge of a limited dataset, we were able to successfully able build and tune a Hyper Tuned Random Forest Model to maximize **recall score of 80%.**
+With the challenge of a limited dataset, was able to successfully able build and tune a Hyper Tuned Random Forest Model to maximize **recall score of 80%.**
 
 Found that **`DEBTINC` (Debt-to-income ratio)** is a dominant predictor of defaulters, along with 4 other key features `CLAGE`, `VALUE`, `NINQ` and `Loan`.
 
