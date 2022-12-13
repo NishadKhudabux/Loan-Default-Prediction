@@ -2,7 +2,7 @@
 ## **Context:**
 A major proportion of retail bank profit comes from interests in the form of home loans. These loans are borrowed by regular income/high earning customers. Banks are most fearful of defaulters, as bad loans (NPA) usually eat up a major chunk of their profits. Therefore, it is important for banks to be judicious while approving loans for their customer base.
 
-* Perform EDA and give recommendations to the bank on the important features to consider while approving a loan.
+* Perform EDA and feature analysis to give recommendations to the bank on the key features to consider while approving a loan.
 * Build a classification model to predict clients who are likely to default on their loan
     * Maximizing `Recall` (false negatives) as banks are more fearfull of defaulters given they result in greater loss. 
     * Preferably maintaining a high `F1-Score` (overall accuracy) as false positives would result in a loss of interest profit for the bank. 
