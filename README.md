@@ -14,7 +14,7 @@ The **challenge of this project was to work with a sub-optimal dataset**. Rather
 ## **Results**
 Performed substantial **cleaning** to address numerous **missing values** and **outliers**.
 
-With the challenge of a limited dataset, was able to successfully build and tune a Hyper Tuned Random Forest Model maximized for **recall with a score of 80%.**
+With the challenge of a limited dataset, was able to successfully build and optimize a Hyper Tuned Random Forest Model maximized for **recall with a score of 80%.**
 
 Found that **`DEBTINC` (Debt-to-income ratio)** is a dominant predictor of defaulters, along with 4 other key features `CLAGE`, `VALUE`, `NINQ` and `Loan`.
 
