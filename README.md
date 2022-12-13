@@ -12,7 +12,7 @@ The **challenge of this project was to work with a sub-optimal dataset**. Rather
 
 --------------------------------
 ## **Results**
-Performed substantial **cleaning** to address numerouse **missing values** and **outliers**.
+Performed substantial **cleaning** to address numerous **missing values** and **outliers**.
 
 With the challenge of a limited dataset, was able to successfully build and tune a Hyper Tuned Random Forest Model maximized for **recall with a score of 80%.**
 
