@@ -8,7 +8,7 @@ A major proportion of retail bank profit comes from interests in the form of hom
     * Maximizing `Recall` (false negatives) as banks are more fearfull of defaulters given they result in greater loss. 
     * Preferably maintaining a high `F1-Score` (overall accuracy) as false positives would result in a loss of interest profit for the bank. 
 
-The **challeng of this project was to work with a sub-optimal dataset**. Rather than seek out more and higher quality data (the conventional solution), the goal was to approach the problem as a real work example of limited data while still strive to meet the objectives.
+The **challenge of this project was to work with a sub-optimal dataset**. Rather than seek out more and higher quality data (the conventional solution), the goal was to approach the problem as a real work example of limited data while still strive to meet the objectives.
 
 --------------------------------
 ## **Results**
